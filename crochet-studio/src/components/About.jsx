@@ -17,9 +17,9 @@ function About () {
                         <div class="fas fa-heart text-white"></div>
                     </div>
                     <div>
-                        <h3 class="font-bold text-black  text-xl">Handmade with Passion</h3>
+                        <h3 class="font-bold text-black  text-xl">Handmade with Passion.</h3>
                         <p class="text-gray-900  text-xl">Every stitch tells a story.</p>
-                        <p class="text-gray-900 text-xl">Over 5000 happy customers</p>
+                        <p class="text-gray-900 text-xl">Over 5000 happy customers.</p>
 
                     </div>
                 </div>

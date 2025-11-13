@@ -93,16 +93,16 @@ const Testimonials = () => {
                 <h2 className="text-4xl font-bold text-black mb-10">
                     What People Are Saying About Us
                 </h2> 
-                <div className="flex items-center gap-4 mb-6 transition-all duration-500 font-bold">{abbreviation}
+                <div className="flex items-center  gap-12 mb-6 transition-all duration-500 bg-amber-800 rounded-full w-9 h-10 font-bold">{abbreviation}
         
                    
-                    <div>
-                        <h3 className="text-lg font-bold text-gray-900">{name}</h3>
-                        <p className="text-lg text-gray-800">{role}</p>
+                    <div className="flex items-center gap-8 mb-4">
+                        <h3 className="text-xl font-bold text-gray-900">{name}</h3>
+                        <p className="text-lg  text-gray-700 ">{role}</p>
                     </div>
                 </div>
 
-                <p className="text-gray-800  text-xl italic mb-15 leading-relaxed transition-all duration-500">
+                <p className="text-gray-800  text-xl italic mb-16 leading-relaxed transition-all duration-500">
                     "{text}"
                 </p>
 
@@ -126,7 +126,7 @@ const Testimonials = () => {
                 <img
                     src={testimonalsbackground}
                     alt="testimonial background"
-                    className="w-md h-[400px] object-cover rounded-lg aspect-square "
+                    className="w-md h-[400px] object-cover rounded-xl aspect-square "
                 />
             </div>
         </section>

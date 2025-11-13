@@ -1,6 +1,6 @@
 function Navigation () {
     return (
-        <nav class="bg-white shadow-md py-4 sticky top-0 z-50">
+        <nav class="bg-white local shadow-md py-4 sticky top-0 z-50">
         <div class="container mx-auto px-4 flex justify-between items-center">
             <div class="flex items-center">
                 <div class="fas fa-crochet text-brown text-3xl mr-2"></div>

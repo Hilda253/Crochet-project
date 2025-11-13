@@ -72,7 +72,7 @@ function GalleryCard({ image, alt, onImageClick }) {
             <img 
                 src={image} 
                 alt={alt} 
-                className="w-full h-64 object-cover transition duration-500 hover:scale-110"
+                className="w-90 h-64  object-cover transition duration-500 hover:scale-110"
             />
         </div>
     );
