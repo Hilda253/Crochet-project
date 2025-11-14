@@ -81,9 +81,10 @@ Yarn texture images sourced from Sustainable Yarn Council.
 # Installation & Setup.
 Node.js
 npm 
-##Local Delevopment.
 
-# Clone the repository
+## Local Delevopment.
+
+ Clone the repository
 git clone [your-repo-url]
  Navigate to project directory
 cd crochet-studio
@@ -96,7 +97,7 @@ npm run build
  Start production server
 npm start
 
-##Technologies Used.
+## Technologies Used.
 React: ^18.2.0
 
 Tailwind CSS: ^3.3.0
