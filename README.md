@@ -98,26 +98,33 @@ npm start
 
 ##Technologies Used.
 React: ^18.2.0
+
 Tailwind CSS: ^3.3.0
+
 Additional Packages:
 React Router: ^6.0.0 - For navigation.
 
 # Challenges & Sollutions.
 ## Challenge 1: Complex Product Variant Management.
 Problem: Crochet products have multiple variants (yarn type, color, size) that needed efficient state management.
+
 Solution: Implemented a custom useProductVariant hook with context API to manage complex product configurations.
 
 ## Challenge 2: Pattern PDF Generation and Display.
 Problem: Crochet patterns required dynamic PDF generation with proper formatting for different devices.
+
 Solution: Created a PatternViewer component that renders patterns responsively and generates print-friendly PDFs on demand.
 
 ## Challenge 3: Image Optimization for Product Galleries.
 Problem: High-resolution product images were impacting load times on mobile devices.
+
 Solution: Implemented responsive image loading with WebP fallbacks and blur-up placeholders for smooth user experience.
 
 # Future Improvements.
  1.AR Try-On Feature: Implement augmented reality for users to visualize crochet products in their space.
+ 
 2.Pattern Customizer: Build an interactive tool for users to customize existing patterns with their preferences.
+
 3.Community Features: Add user-generated content sections for sharing projects and techniques.
 
 #Screenshots.
