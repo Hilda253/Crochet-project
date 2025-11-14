@@ -102,7 +102,7 @@ Tailwind CSS: ^3.3.0
 Additional Packages:
 React Router: ^6.0.0 - For navigation.
 
-# Challenges $Sollutions.
+# Challenges & Sollutions.
 ## Challenge 1: Complex Product Variant Management.
 Problem: Crochet products have multiple variants (yarn type, color, size) that needed efficient state management.
 Solution: Implemented a custom useProductVariant hook with context API to manage complex product configurations.
