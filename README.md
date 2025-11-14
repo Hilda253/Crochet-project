@@ -45,11 +45,17 @@ MD Breakpoint Decisions: Optimized product grids to show 2 items per row with en
 
 # Component Architecture.
 src/
+
 ├── components/
+
 │   ├── ui/ ( Card,)
+
 │   ├── layout/ (Header, Footer, ProductGrid ,Features,Gallery,Hero,Stats,Testimonials)
+
 │   └── products/ (ProductCard, )
+
 ├── hooks/ ( useProducts)
+
 └── styles/ (custom Tailwind classes)
 
 Reusability Strategy: Component-first architecture with prop-based customization for different crochet product types and pattern variations.
