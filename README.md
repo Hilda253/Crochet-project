@@ -86,7 +86,7 @@ npm
 ## Local Delevopment.
 
 . Clone the repository:
-git clone [your-repo-url]
+git clone https://github.com/Hilda253/Crochet-project.git
 
 . Navigate to project directory:
 cd crochet-studio
