@@ -77,29 +77,21 @@ npm
 ###Local Delevopment.
 # Clone the repository
 git clone [your-repo-url]
-
-# Navigate to project directory
+ Navigate to project directory
 cd crochet-studio
-
-# Install dependencies
+ Install dependencies
 npm install
-
-# Start development server
+ Start development server
 npm run dev
-
-# Build for production
+ Build for production
 npm run build
-
-# Start production server
+ Start production server
 npm start
 
 ##Technologies Used.
 React: ^18.2.0
-
 Tailwind CSS: ^3.3.0
-
 Additional Packages:
-
 React Router: ^6.0.0 - For navigation.
 
 ##Challenges $Sollutions.
@@ -117,9 +109,7 @@ Solution: Implemented responsive image loading with WebP fallbacks and blur-up p
 
 ##Future Improvements.
  1.AR Try-On Feature: Implement augmented reality for users to visualize crochet products in their space.
-
 2.Pattern Customizer: Build an interactive tool for users to customize existing patterns with their preferences.
-
 3.Community Features: Add user-generated content sections for sharing projects and techniques.
 
 ##Screenshots.
