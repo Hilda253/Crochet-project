@@ -5,10 +5,12 @@ MY PROJECT
 # Live Demo
 
 
+
+
 # Project Demo
 WOOL & THREAD is a type of business that turns soft string into useful and beautiful things,making cozy blankets,stylish clothes,and unique gifts one loop at a time . This website serves as primary function - e.g., portfolio, e-commerce, informational site designed to[main goal - e.g., showcase work, sell products, provide information.
 
-# Braand Identity.
+# Brand Identity.
 ###Color System
 
 . Primary: #D97706 (Amber) - Used for primary buttons, links, and accents to represent warmth, creativity, and handmade craftsmanship.
