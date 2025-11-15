@@ -135,3 +135,10 @@ Solution: Implemented responsive image loading with WebP fallbacks and blur-up p
 3.Community Features: Add user-generated content sections for sharing projects and techniques.
 
 #Screenshots.
+lg-breakpoint.png - Desktop layout with full product grid
+
+.png - Tablet-optimized product display
+
+sm-breakpoint.png - Mobile-first single column design
+
+lighthouse-scores.png - Performance and accessibility metrics
