@@ -1,77 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Crochet-project
 MY PROJECT 
 # Crochet-studio.
@@ -208,11 +135,12 @@ Solution: Implemented responsive image loading with WebP fallbacks and blur-up p
 
 3.Community Features: Add user-generated content sections for sharing projects and techniques.
 
-#Screenshots.
+# Screenshots.
 lg-breakpoint.png - Desktop layout with full product grid
 
 
+table png.png -Tblat-First single column 
 
 sm-breakpoint.png - Mobile-first single column design
 
-lighthouse-scores.png - Performance and accessibility metrics
+
