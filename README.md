@@ -137,7 +137,7 @@ Solution: Implemented responsive image loading with WebP fallbacks and blur-up p
 #Screenshots.
 lg-breakpoint.png - Desktop layout with full product grid
 
-.png - Tablet-optimized product display
+
 
 sm-breakpoint.png - Mobile-first single column design
 
