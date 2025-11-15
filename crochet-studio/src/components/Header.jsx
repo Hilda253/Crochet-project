@@ -405,7 +405,6 @@ function Header() {
                             Already have an account?{' '}
                             <button
                                 onClick={() => { setShowSignUpModal(false); setShowLoginModal(true); }}
-                                className="text-amber-600 hover:text-amber-700 font-medium"
                             >
                                 Login here
                             </button>
